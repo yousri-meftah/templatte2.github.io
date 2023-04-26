@@ -1,5 +1,5 @@
 # demo
-[template-with-HTML-and-CSS-ONLY](https://yousri-meftah.github.io/test/).
+[template-with-HTML-and-CSS-ONLY](https://yousri-meftah.github.io/templatte2.github.io/).
 # template-with-HTML-and-CSS-ONLY
 This is my first template of the year after a long break i hope you like it
 this what it looks like .
